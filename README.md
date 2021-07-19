@@ -6,9 +6,9 @@
 - bloat vomit
 ## Do not removes: 
 - any fire textures (however, mutator removes them optionally, but i decided to keep them)
-- any smoke effects [(here is another patch that removes smoke)](https://github.com/rinneten/KFNoSmokePatch)
+- any smoke effects ([here is another patch that removes smoke](https://github.com/rinneten/KFNoSmokePatch))
 # Install
-1. [Download repos as .zip](https://github.com/rinneten/KFNoShaderHUD.git)
+1. [Download repos as .zip](https://github.com/rinneten/KFNoShaderHUD/archive/refs/heads/main.zip)
 2. Extract 3 .utx files from \Textues\ to your Textures KF folder (..\Steam\steamapps\common\KillingFloor\Textures\)
 # If something went wrong
 There are also original .utx textures, if you want to go back, feel free to download them.
