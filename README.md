@@ -13,7 +13,7 @@
 # If something went wrong
 There are also original .utx textures, if you want to go back, feel free to download them.
 # Credits
-- Vel-San - for creating new steam version mutator which one i used to get texture names for patching
+- [Vel-San](http://steamcommunity.com/profiles/76561198122568951) - for creating new steam version mutator which one i used to get texture names for patching
 - Flame
 - Essence
 - Dr.Terv
