@@ -6,7 +6,7 @@ Works on every server, it's not a mutator, it's texture patch.
 - sepia shader (on every map)
 - bloat vomit
 ## Do not removes: 
-- any fire textures (however, mutator removes them optionally, but i decided to keep them)
+- any fire textures (however, [mutator](https://steamcommunity.com/sharedfiles/filedetails/?id=2446866397) removes them optionally, but i decided to keep them)
 - any smoke effects ([here is another patch that removes smoke](https://github.com/rinneten/KFNoSmokePatch))
 # Install
 1. [Download repos as .zip](https://github.com/rinneten/KFNoShaderHUD/archive/refs/heads/main.zip)
