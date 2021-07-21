@@ -1,5 +1,5 @@
 # KFNoShaderHUD
-Works on every server, it's not a mutator, it's texture patch.
+Works on every server, it's not a mutator, it's client-sided texture patch.
 ## This simple texture client-sided patch removes:
 - spectator menu film effect
 - low hp red shader
